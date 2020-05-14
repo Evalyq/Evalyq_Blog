@@ -1,0 +1,17 @@
+{
+  "name": "evalyq_blog",
+  "version": "1.0.0",
+  "description": "A boilerplate for react + typescript development",
+  "private": true,
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Evalyq/Evalyq_Blog.git"
+  },
+  "author": {
+    "name": "liuyaqian",
+    "url": "https://github.com/Evalyq",
+    "email": "965661503@qq.com"
+  },
+  "license": "MIT",
+  "scripts": {}
+}
